@@ -7,3 +7,9 @@ body {
 h1 {
   color: #1e3a8a;
 }
+
+
+.galeria {
+  padding: 1 rem;
+  background-color: #dbeafe;
+}
