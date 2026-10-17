@@ -7,3 +7,10 @@ body {
 h1 {
   color: #1e3a8a;
 }
+h2 {
+  color: #2563eb;
+}
+
+p {
+  line-height: 1.6;
+}
